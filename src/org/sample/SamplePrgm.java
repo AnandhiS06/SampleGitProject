@@ -8,5 +8,7 @@ public class SamplePrgm {
 		System.out.println(a);
 		int b=10;
 		System.out.println(b);
+		int c=5;
+		System.out.println(c);
 	}
 }
